@@ -1,4 +1,4 @@
-# Video Game Sales Prediction
+# Video_Game_Sales
 
 ## Overview
 This project aims to predict global sales of video games using regression models. It involves building a regression model based on features such as platform, genre, and publisher.
